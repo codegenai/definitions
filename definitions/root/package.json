@@ -1,0 +1,25 @@
+{
+  "name": "@codegenai/root",
+  "version": "0.1.0",
+  "description": "Root package for codegenai machine definitions",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codegenai/definitions.git"
+  },
+  "keywords": [
+    "codegenai"
+  ],
+  "author": "Wojciech Trocki <wtr@redhat.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/codegenai/definitions/issues"
+  },
+  "homepage": "https://github.com/codegenai/definitions#readme"
+}

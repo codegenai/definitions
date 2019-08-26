@@ -1,3 +1,4 @@
-# definitions
+# Definitions
 
-Definitions files for CodeGenAI
+Definitions files for CodeGenAI.
+
